@@ -1,0 +1,1 @@
+cmd_/home/anchowee/c/unix_network/kernel/test.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/anchowee/c/unix_network/kernel/test.ko /home/anchowee/c/unix_network/kernel/test.o /home/anchowee/c/unix_network/kernel/test.mod.o
