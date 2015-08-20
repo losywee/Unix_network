@@ -1,0 +1,52 @@
+draftsight  dassault-systemes
+staruml
+bleachbit
+chrome
+crossover
+FBReader
+dbeaver
+mplayer
+wapiti
+wireshark
+calligra
+krita
+okular
+stellarium
+calibre
+'''
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+'''
+samba
+sublime-text-installer
+numix-icon-theme-circle
+dukto
+gdebi
+synaptic
+oracle-java8-installer
+wiznote zeal
+brackets
+atom
+numix-icon-theme
+unity-tweak-tool
+tlp
+darktable-release
+haguichi
+qtav
+indicator-multiload
+ida
+hopper-v3
+visual-studio-code
+MetalSlug3
+lampp
+AfterShot2(64-bit)
+eclipse
+codeblocks
+kingsoft
+palemoon
+gimp
+inkscape
+Qt
+vlc
+
+
