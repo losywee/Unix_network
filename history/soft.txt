@@ -1,6 +1,8 @@
 draftsight  dassault-systemes
 staruml
 bleachbit
+stardict 
+xchm
 chrome
 crossover
 FBReader
