@@ -3,7 +3,7 @@ staruml
 bleachbit
 stardict 
 xchm
-chrome
+chrome sudo apt-get install google-chrome-stable
 crossover
 FBReader
 dbeaver
